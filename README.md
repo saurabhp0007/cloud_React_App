@@ -30,14 +30,12 @@ Tailwind CSS is more than just a utility-first CSS framework; it's a game-change
 To get started with the Cloud Management front-end project, first, clone the repository:
 
 
-Install Dependencies:
+### Install Dependencies
 
-bash
-Copy code
+```bash
 npm install
-Run the Application:
+npm run dev
 
-bash
-Copy code
-npm start
-Open http://localhost:3000 in your browser to view the app.
+
+
+
